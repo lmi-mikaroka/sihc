@@ -3,7 +3,7 @@ application shiny pour Suivi des informations Halieutiques sur les Crabes
 
 l'application shiny peut etre accesible via:http://vps-36ad3311.vps.ovh.net/sihc/
 
-1- Avant d'éxécuter l'application Shinyil faut d'abord il faut configurer fe fichier .env
+1- Avant d'éxécuter l'application Shiny il faut d'abord il faut configurer le fichier .env
 
 2- charger les données en éxécutant le script cron.R (Rscript cron.R) 
 
